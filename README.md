@@ -19,6 +19,11 @@ El objetivo de este proyecto es proporcionar implementaciones claras y funcional
 4. [Iterator](./IteratorPattern/)
 5. [Mediator](./MediatorPattern/)
 6. [Visitor](./VisitorPattern/)
+7. [Memento](./MementoPattern/)
+8. [Observer](./ObserverPattern/)
+9. [State](./StatePattern/)
+10. [Strategy](./StrategyPattern/)
+11. [TemplateMethod](./TemplateMethodPattern/)
 
 ## Requisitos
 
